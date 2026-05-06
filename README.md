@@ -422,41 +422,7 @@ Possible future improvements include:
 
 ## 👨‍💻 Author
 
-**Shafin**  
-Computer Science Student  
-Project Developer  
-
----
-
-## 🏷️ Repository Topics
-
-Use these GitHub topic tags:
-
-```text
-deep-learning
-computer-vision
-image-classification
-self-supervised-learning
-simclr
-tensorflow
-keras
-cattle-disease-detection
-livestock-health
-agriculture-ai
-transfer-learning
-cnn
-resnet50
-densenet121
-efficientnet
-medical-image-classification
-```
-
----
-
-## ⭐ Why This Project Stands Out
-
-This is not just a basic CNN image classification project.
-
-The strongest part of this project is the use of a **self-supervised SimCLR fine-tuned model**, which achieved **95.48% test accuracy** and outperformed standard transfer learning models.
-
-That makes the project stronger for a CV, GitHub portfolio, and machine learning internship applications.
+**Shafin Mahamud**  
+Computer Science Student
+Project Developer
+Brac University
